@@ -1,0 +1,16 @@
+Aluno: Matheus de Oliveira Marques Figueredo
+Matrícula: 1310536
+
+
+Programa em linguagem "Python" que comprimi e descomprimi arquivos TXT.
+Para rodar:
+**  Primeiro instale o Python. Download aqui > https://www.python.org/downloads/.
+**  Baixe a versão 2.7.10, ou superior (2.7.*) e não a 3.4.3
+**  Rode o console IDLE(Python GUIE) que pode ser encontrado no menu iniciar.
+**  Clique em File, depois em "Open .." e procure o arquivo "Huffman" e pressione Abrir.
+**  Irá abrir outra janela com o código, clique na aba Run e depois em Run Module.
+**  Agora basta seguir as informações do programa.
+
+
+**  Segue um link com informações passo a passo para instalar plugin do Python no Eclipse.
+**  http://victorjabur.com/2010/05/24/python_eclipse_pydev/
